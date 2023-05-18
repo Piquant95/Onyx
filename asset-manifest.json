@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Onyx/static/css/main.e4f2bf70.css",
+    "main.js": "/Onyx/static/js/main.6cd16977.js",
+    "static/media/flo.mp4": "/Onyx/static/media/flo.8a3db12271c1ea2c7e9c.mp4",
+    "static/media/starry.png": "/Onyx/static/media/starry.9e3c0f95d4de8e37e741.png",
+    "static/media/TEST.mp4": "/Onyx/static/media/TEST.66b287439030e3a23806.mp4",
+    "static/media/scroll1.png": "/Onyx/static/media/scroll1.420530c85ec732f5c9ef.png",
+    "static/media/fog.png": "/Onyx/static/media/fog.4f5583d4fe1b3f2f8763.png",
+    "index.html": "/Onyx/index.html",
+    "main.e4f2bf70.css.map": "/Onyx/static/css/main.e4f2bf70.css.map",
+    "main.6cd16977.js.map": "/Onyx/static/js/main.6cd16977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f2bf70.css",
+    "static/js/main.6cd16977.js"
+  ]
+}
